@@ -5,11 +5,11 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 # Research
 
 ## Journals and Conferences
-```
-[j1] Anna Angelogianni, Ilias Politis, Farnaz Mohammadi, Christos Xenakis: On Identifying Threats and Quantifying Cybersecurity Risks of Mnos Deploying Heterogeneous Rats. IEEE Access 8: 224677-224701 (2020), https://ieeexplore.ieee.org/abstract/document/9296264 
 
-[c1] Theodoula-Ioanna Kitsaki, Anna Angelogianni, Christoforos Ntantogian, Christos Xenakis: A forensic investigation of Android mobile applications. PCI 2018: 58-63 https://dl.acm.org/doi/abs/10.1145/3291533.3291573
-```
+>[j1] Anna Angelogianni, Ilias Politis, Farnaz Mohammadi, Christos Xenakis: On Identifying Threats and Quantifying Cybersecurity Risks of Mnos Deploying Heterogeneous Rats. IEEE Access 8: 224677-224701 (2020), https://ieeexplore.ieee.org/abstract/document/9296264 
+
+>[c1] Theodoula-Ioanna Kitsaki, Anna Angelogianni, Christoforos Ntantogian, Christos Xenakis: A forensic investigation of Android mobile applications. PCI 2018: 58-63 https://dl.acm.org/doi/abs/10.1145/3291533.3291573
+
 
 ## Posters
 ```
