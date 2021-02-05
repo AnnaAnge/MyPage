@@ -4,16 +4,14 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 
 # Research
 
-## Journals and Conferences
-
+## Journals
 > [j1] Anna Angelogianni, Ilias Politis, Farnaz Mohammadi, Christos Xenakis: [On Identifying Threats and Quantifying Cybersecurity Risks of Mnos Deploying Heterogeneous Rats.](https://ieeexplore.ieee.org/abstract/document/9296264) IEEE Access 8: 224677-224701 (2020), 
 
+## Conferences
 > [c1] Theodoula-Ioanna Kitsaki, Anna Angelogianni, Christoforos Ntantogian, Christos Xenakis: [A forensic investigation of Android mobile applications.](https://dl.acm.org/doi/abs/10.1145/3291533.3291573) PCI 2018: 58-63 
 
 ## Posters
-
 > [p1] Christos Xenakis, Anna Angelogianni, Eleni Veroni, Eirini Karapistoli, Matthias Ghering, Neofytos Gerosavva, Vasileios Machamint, Pierluigi Polvanesi, Angela Brignone, Jeronimo Nuñez Mendoza, Antonio Pastor: [The SPIDER concept:A Cyber Range as a Service Platform.](https://zenodo.org/record/4030473#.YB2s7o8zZbU) EuCNC 2020 
-
 
 ## Whitepapers
 > [An insight on the SPIDER WP2 activities during the first half of the project - Pilot use case scenarios and architecture of the SPIDER project](https://spider-h2020.eu/wp-content/uploads/2021/01/SPIDER-%E2%80%93-WHITEPAPER-1.pdf)
