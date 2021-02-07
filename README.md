@@ -25,4 +25,4 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 Reference-style: 
 ![alt text][logo_googlescholar]
 
-[logo]: https://png2.cleanpng.com/sh/3de4f4524929c814a80e2180198f4838/L0KzQYm3VME0N6dvfZH0aYP2gLBuTfNwdaF6jNd7LYPmebb1gBUub5D0f95uLYPmeLFzggIubJDojNH7LXBpPcHvifxwe5D1Rdl4b3fvdX68gfQxQWU6Sas9YkK0R3A6VsE2QGY3UKMAMkO5QYmBWcc3OGo2RuJ3Zx==/kisspng-computer-science-google-scholar-doctor-of-philosop-google-5ad0945194b217.3615852815236188976091.png "Logo Google Scholar"
+[logo]: https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg "Logo Google Scholar"
