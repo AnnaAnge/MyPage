@@ -22,6 +22,4 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 > ECDSA implementation in OpenTEE [Github](https://github.com/AnnaAnge/ECDSA_OpenTEE)
 
 
-![alt text][logo_googlescholar]
 
-[logo_googlescholar]: https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png "Logo Google Scholar"
