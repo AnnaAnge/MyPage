@@ -24,4 +24,4 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 
 ![alt text][logo_googlescholar]
 
-[logo_googlescholar]: https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG "Logo Google Scholar"
+[logo_googlescholar]: https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png "Logo Google Scholar"
