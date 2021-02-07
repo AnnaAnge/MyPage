@@ -19,4 +19,4 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 ## Thesis
 > [Analysis and implementation of the FIDO protocol in a trusted environment](http://dione.lib.unipi.gr/xmlui/handle/unipi/11387?locale-attribute=en)
 
-> [Github Code for ECDSA implementation in OpenTEE](https://github.com/AnnaAnge/ECDSA_OpenTEE)
+> ECDSA implementation in OpenTEE [Github](https://github.com/AnnaAnge/ECDSA_OpenTEE)
