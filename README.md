@@ -23,3 +23,5 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 
 
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAnge&theme=radical" />
