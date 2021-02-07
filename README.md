@@ -17,4 +17,4 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 > [An insight on the SPIDER WP2 activities during the first half of the project - Pilot use case scenarios and architecture of the SPIDER project](https://spider-h2020.eu/wp-content/uploads/2021/01/SPIDER-%E2%80%93-WHITEPAPER-1.pdf)
 
 ## Thesis
-> [Analysis and implementation of the FIDO protocol in a trusted environment](http://dione.lib.unipi.gr/xmlui/handle/unipi/11387)
+> [Analysis and implementation of the FIDO protocol in a trusted environment](http://dione.lib.unipi.gr/xmlui/handle/unipi/11387?locale-attribute=en)
