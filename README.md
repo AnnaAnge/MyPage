@@ -1,4 +1,4 @@
-# Intro
+# Intro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in Digital Systems Security from the University of Piraeus, Greece, in 2016 and 2018 respectively. I was also an exchange student during 2015 in Stockholm University in the department of Computer and System Sciences (DSV).  Currently, i am a PhD student in the Department of Digital Systems under the supervision of Professor Christos Xenakis while i'm also a member of the Systems Security Laboratory.
 
 
