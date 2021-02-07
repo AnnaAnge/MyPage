@@ -25,10 +25,10 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 # Skills 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAnge&theme=radical" />
 
-#Media
+# Media
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
