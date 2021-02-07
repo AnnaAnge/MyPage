@@ -24,7 +24,11 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 
 # Github Stats :chart_with_upwards_trend:	
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAnge&theme=slateorange" />
-<img align="center" src="https://github-readme-stats.vercel.app/api username=AnnaAnge&theme=slateorange" alt="Anna's GitHub Stats" />
+
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnnaAnge&theme=slateorange" alt="Anna's GitHub Stats" />
 
 # Media
 <!-- Actual text -->
