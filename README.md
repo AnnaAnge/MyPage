@@ -22,7 +22,7 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 > ECDSA implementation in OpenTEE [Github](https://github.com/AnnaAnge/ECDSA_OpenTEE)
 
 
-# Github Stats 
+# Github Stats :chart_with_upwards_trend:	
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAnge&theme=radical" />
 
 # Media
