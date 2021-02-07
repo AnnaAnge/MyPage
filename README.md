@@ -22,6 +22,20 @@ I'm Anna. I received my B.Sc. degree in Digital Systems and my M.Sc. degree in D
 > ECDSA implementation in OpenTEE [Github](https://github.com/AnnaAnge/ECDSA_OpenTEE)
 
 
-
-
+# Skills 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAnge&theme=radical" />
+
+#Media
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/annaangelog
+[2]: https://www.linkedin.com/in/anna-angelogianni/
